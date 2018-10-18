@@ -1,0 +1,25 @@
+.WarnaRosy {
+    color: rosybrown;
+}
+.Miring {
+    font-style: italic;
+}
+.Nama {
+    font-family: montserrat;
+}
+body {
+    background: url("moon.jpg");
+}
+a:link{
+    color: antiquewhite; /*nandain kalo itu link*/
+    font-style: oblique;
+}
+a:hover {
+    color: paleturquoise; /* ngasih warna waktu cursor nunjuk ke situ*/
+}
+a:visited {
+    color: brown; /*kalo udah di klik*/
+}
+a:active {
+    color: green;
+}
